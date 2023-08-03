@@ -1,0 +1,43 @@
+Depending on a given user's needs, specific images can be developed with the below programs that would benefit any enterprise environment.  Please feel free to contribute.
+
+Office Software:
+	- Office 365
+		- Develop spreadsheets, documents, slideshows, and more.
+	- Adobe Acrobat
+		- Read and write .pdf files.
+	- Google Chrome
+		- Secure internet browsing with ease of access.
+	- Skype
+		- Stay connected with dedicated video streaming software.
+
+Security Software:
+	- Norton Antivirus
+		- Secure your workstations with top of the line antivirus software.
+	- Gpg4win
+		- Encrypt, decrypt, and verify emails with GPG encryption.
+
+DevOps Software:
+	- Hyper-V
+		- Access virtualized environments to develop and test software
+	- Visual Studio
+		- Program with a dedicated IDE
+	- Jupyter Notebook
+		- Python programming with Jupyter allows developers to test and run software.
+	- Cisco Packet Tracer
+		- The industry standard for network administration
+	- X2Go
+		- Use a dedicated SSH program for accessing the cloud
+	- Geany
+		- C++ programming with Geany allows developers to test and run software.
+
+PenTesting Software:
+	- Wireshark
+		- Analyze and lockdown your network with the industry standard packet sniffing tool
+	- ZenMap
+		- Scan a network with pre-built scripts and custom nmap arguments
+
+Data Forensics:
+	- Disk Drill
+		- The industry standard for data recovery
+	- EaseUS
+		- Great alternatives for data recovery to verify all data has been recovered
