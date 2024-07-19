@@ -25,7 +25,7 @@ Check the README.md files within each directory for more information.
 3. Run Automation Script on any intended devices.
 
 # Issues
-1. Please See postChecks.xlsx for addiitonal issues and To Do tasks.
+1. Please See `postChecks.xlsx` for addiitonal issues and To Do tasks.
 
 ## Contributing
 
