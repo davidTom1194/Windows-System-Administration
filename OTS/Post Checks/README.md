@@ -36,7 +36,7 @@ code of conduct, and the process for submitting pull requests to us.
 
 * **David Tom** - *Initial Work* - [davidTom1194](https://github.com/davidTom1194)
 See also the list of [contributors](https://github.com/davidTom1194/davidTom1194/blob/main/contributors)
-Employee Email: [davidtom1194](mailto:david.tom@csn.edu]
+- Employee Email: [davidtom1194](mailto:david.tom@csn.edu]
 
 ## License
 
