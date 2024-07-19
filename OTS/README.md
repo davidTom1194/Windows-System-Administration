@@ -1,4 +1,4 @@
-# Windows System-Administration - CSN's OTS Department
+# CSN/Synoptek OTS
 This repository contains an assortment of Powershell commands to assist with a computer/IT related workstation on a
 Windows device.
 
